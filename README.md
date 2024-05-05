@@ -1,17 +1,17 @@
-**Period:** October 2021 – June 2022  
+**Period:** November 2021 – May 2022  
 **Role(s):** Scrum Master / Agile Coach  
 **Industry:** Financial Technology (Fintech)  
 **Client:** Confidential  
-**Location:** Nevada  
+**Location:** Nevada (remote work)
 
 **Project Overview:**
 - Leading two teams developing a mobile banking app (iOS / Android)
 - Supporting the entire project in terms of scaling – five teams in the frontend area
 
 **Project Tasks:**
-- Establishing clear roles and responsibilities within the project teams
-- Creating a framework for agile development
-- Conducting retrospectives to reflect on past iterations and identify areas for improvement
+- establishing clear roles and responsibilities within the project teams
+- creating a framework for agile development
+-  lead retrospectives to reflect on past iterations and identify areas for improvement
 - Collaborating with cross-functional teams to prioritize and deliver features
 - Developing and maintaining project documentation and communication channels
 - Facilitating decision-making and conflict resolution within teams
